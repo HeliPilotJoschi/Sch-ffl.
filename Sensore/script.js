@@ -1,4 +1,3 @@
-script.js
 var ball       = document.querySelector('.ball');
 var garden     = document.querySelector('.garden');
 var output     = document.querySelector('.output');
